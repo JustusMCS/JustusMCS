@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustusMCS
+👋 Hi, I’m @JustusMCS
 
 <!---
 JustusMCS/JustusMCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
